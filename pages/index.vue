@@ -1,77 +1,163 @@
 <template>
-  <div class="container">
-    <div>
-      <logo />
-      <h1 class="title">
-        dead_customer
-      </h1>
-      <h2 class="subtitle">
-        fuck you i&#39;m already dead
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
+  <div id="root" class="w-full">
+    <div id="intro" class="mx-auto">
+      <img src=/imakid.jpg id=imakid />
+      <h1 class="blink">DEAD CUSTOMER</h1>
     </div>
+    <p>Sometimes when I'm meditating I have visions of virtual places that don't actually exist except in electronic suspension between pre-trade-war graphics cards now writhing sun bleached in the landfill back across the bay where I grew up. I remember the insides of castles and cargo ships as if I was actually there, I feel deep emotional states tied to these rendered environments.</p>
+    <p>Mass-consumer visions in plastic communion with my various consoles, wearing oversized graphic t-shirts that looked like awkward white dresses on my tiny body and staring in total trance at a small rectangle of light for hours and days and years, marked silently in glowing perpendicular red by Sony in a plastic box above my head.</p>
+    <p>This went on for about 15 years. I started looking at girls and realized that playing video games was not sexually impressive. I started playing bass and learned early 00s pop tabs off google and joined jazz band and started smoking weed and this girl whose voice and freckles and hair and heart were bright and orange and who played oboe in symphonic told me I looked cute lugging my upright past the pool every morning and I started making her surreal stoner doodles on our bio homework that made her laugh and one day she came to my house.</p>
+    <p>it was the mid 2000s so you could get on cable most hours and watch documentary footage of people smoking meth out of aluminum foil in their cars. This is what we are doing and perhaps the tone deaf subject matter is why she pivots for the water polo player and so I drop out of band and eat cinnamon pita chips out behind the tennis club. Our romance remains an open question until she is hit by a freight train during her senior year at a liberal arts college in the midwest.</p>
+    <p>None of the parents the parents knew what to do. After the funeral they gave us these warm vacant frowns while we got drunk and screamed in the back yard. Her best friend and I met up a year after, driving around sobbing at the hills on the 1: I remember saying her name and seeing horses. Somehow one year later it was so much worse than the day it happened. We had white russians in my kitchen and ended up sucking and drooling blindly on each others faces for 10 awful seconds before our mutual disgust with ourselves pulled our bodies apart: She had a boyfriend and I had a girlfriend and I don't think we were even really attracted to each other. We were just so fucking sad.</p>
+    <p>Usually after therapy I walk to the grocery store 2 blocks down and pick up a sixer of IPA to stop feeling all raw and naked. I was so lonely at work today I wanted to cry. Strung out on Costco K Cups and daydreaming about banging stock photography models, trying to squeeze some emotions out of my constipated blood vessels, gripping my standing desk with both hands and pretending with sweaty clenching effort that I don't want to punch this monitor and just talk to a fucking human for a few minutes Jesus Christ.</p>
+    <p>A flock of executive laughter floats by.</p>
+    <p>Sparks of incidental? open-office eye-contact punctuate the endless drone of error logs silently posting data into the ether around my head. Flourescent tinnitus of monitors and overhead tubes. It's nearly time to go wring out my brainstem on the bar.</p>
+    <h1 class="blink">--:--:--</h1>
+    <p>I am getting high in the shade with my sweater on, entranced with quality visions: a shimmering dark, like the wind at night, she is draped in lavender with brillant birds and snakes on her shoulders and ankles, leaning on a case of grapefruit lacroix.</p>
+    <p>
+      I stumble out into the hissing sunshine from behind the overpass to shout
+      <em>FUCK</em> at the sidewalk, then retreat into a repurposed rubber factory and drink Hazy IPA/Vida Mezcal while surrounded by televisions displaying slow motion footage of pretty latinas eating cheesesteak. Currently all the customers at the bar are men who have come here alone, and everyone is on their phone arranging causal sex or buying sneakers or trying to recruit a project manager. I am waiting on emails from Github or my mom. I wonder if my anxiety disorder is related to how she spent the pregnancy watching the first Gulf War on CNN. Blink-182 comes on Spotify and I finally do start to cry, but the battery dies before the first chorus and everybody starts cracking jokes before putting on more trap.
+    </p>
+    <p>Local news rolling credits to a nearly submarine 4-runner in a Florida hurricane before the Packers opener. Brett Favre in athleisure slowly pulls his hands apart, then brings them steeple together- apart, together, while glancing casually off-screen. Howie Long is selling Sketchers and Chevys at the same time.</p>
+    <p>#13 winces placidly on his ass-and-elbows while men in slacks stand around him and confer. We review the footage of his knee being ripped apart.</p>
+    <p>The guy at my left unintentionally eats his poke bowl to the beat. I knock over a stack of coasters as I shake his hand.</p>
+    <p>I make interactive billboards to score enough $$$ to get fucked up in a room full of strangers under an endlessly repeating sports event. I have air conditioning and locks on my door and YouTube videos and vegan canned soup. The camps along the tracks catch fire once or twice a month. I can see the gas station from my bed, lift my head up and see tiny shadow people buying cigarettes and gas and whatever.</p>
+    <p>I can see the city across the water where my friends from High School are this very moment perched in those living facilities and twitching among bags of electric brain powder before descending into fast casual restaurants and feeling out slippery numb shapes against each others bodies.</p>
+    <p>i am unable to do anything except sleep and smoke. i coalesce around open seating and hover like uncertain weather over the recital of numbers and names on national public radio. It's the 10th anniverisary of the Lehman Brothers collapse and I am inhaling 91% luxury cannabis vapor product over interstate 880, watching entire reams of 8-1/2" x 11" explode down the shoulder like flocks of nervous birds.</p>
+    <p>It’s been 30 days since the full moon in venus hit on my brother's birthday and I buttdialed my girlfriend of 8 years on the 22nd street overpass to tell her it was over. My shirt was off and the moon was orange and hot and giant and howling above the railyard like a gun pointed at my head.</p>
+    <h1 class="blink">--:--:--</h1>
+    <p>Everyone in the cafe is flanked on all sides by papers and wires and screens and looking lobotomized. Someone has clogged the shitter with paper towels.</p>
+    <p>Starting to blink awake out of secondhand swisher sweet fog into the perpetual towering of money and a cascading series of repeating tasks: a meticulous mapping of empty rooms, reverberations dreamt in unison by the dead.</p>
+    <p>Cardiac motion pushing circles of blind fluid between bones and freeways in our perpetual buffer. i am desperate for the way seasons carry blurry fragments of former selves in the texture of their air like constellations of hormones suspended in the smells.</p>
+    <p>Taste of plaque and tobacco on the freeway. Morning mouth has glued the filter to my lips. My skin shines electric with elaborate unrest. Webs of sense woven into threads pulling muscle hang a space which I call myself, claiming to have control over a momentum that's been ripping shockwaves across galaxies since before the human body had a face, and now this motion it's finally shaking our hot meaty limbs into all these gestures of our finding and fucking and fearing and loving and hating each other, I am doing 90 on 80 and letting my heat and smoke go rising into the invisible color that hides behind everything.</p>
+    <p>IPA with breakfast and he could probably smell it on me when I hugged him hello, cooked me kimchi eggs and reflected on his recent moves toward a Doaist flavor of Christianity.</p>
+    <p>He'd met my ex's landlord and thought he was a great guy.</p>
+    <p>His roommates filtered in and out with plates of sliced fruit and I marvelled at their ability to live motivated lives and not just like get fucked up all the time. He was calling bullshit on the Buddha and frying up another round of eggs. It's getting darker early now and his kitchen is mostly in shadow when she asks rhetorically over her boiling french press:</p>
+    <p>"You know when you're in love?"</p>
+    <p>I nod once.</p>
+    <p>She's off to the city for oysters and margaritas. I will bum cigarettes and beers off my neighrbors in the parking lot and then go upstairs to lie in the dark shrieking of CalTrans contracts and debris trucks backing up, apparently in an endless circle, all night; fragments of our dead love still pinned or thrown at walls and corners.</p>
+    <h1 class="blink">--:--:--</h1>
+    <p>I didn't stop having a subtance problem just because she started dying, so yeah I was drunk in the mini van on the way to the hospital, and I was sneaking vape hits in the back so only my cousin could see - she's in college and sober and has perfected the art of speaking with a person and appearing not to notice as they get progressively not sober.</p>
+    <p>We arrive to find grandma gnawing on her suction tube like a bored dog and slapping at nurses, although she lit up when she saw it was us coming into the room and not another medical procedure. She couldn't actually speak because of the ventilator and so us sweating in placid plastic blue smocks because she's got C-diff and leaning in to read her lips. Joy fades fast into the fatigue of being surrounded by 10 people staring at you and literally being unable to speak.</p>
+    <p>I lean in to kiss her head and tell her I love her, she says something back which I squint to hear and she repeats it and smiles.</p>
+    <p>It's not until I'm in the elevator down to the parking garage I realize she was saying: "I'm proud to be your grandma."</p>
+    <p>Cigarettes with my mom in front of depatures at SFO when we're back: a girl hops out of a hippie-tinged toyota pickup and begins heaving desperate sobs into her longhair boyfriend's chest while the woman next to us on the bench is in ecstacy after being delayed out of Atlanta and damn this is her first cigarette in like 8 hours. The cab driver tells us he believes in full moons now after all the shit that happened in SF over the weekend. It is still humming tensely above the monster concrete limbs of the 380 exchange.</p>
+    <p>Didn't realize how high I was until I got in under the flourescent tubes and asked for a double meat w/ onion. Alone for the first time in 3 days, I am dodging unloaded semis and taking iphone pics of garbage on the walk home.</p>
+    <p>Find an Ikea receipt from 2 years ago- we were still together then and I can't remember what a SAMLA is. I can't remember that day. I can't really remember that year, mostly nurses and pills and pain and the ceiling.</p>
+    <p>The first time you get surgery your managers are all smiles and support and asking if you're ok take as much time as you need and it's quite lovely, but by the fifth procedure they are stoned faced as they tell you how much pay will be cut because you couldn't make it in with all the infected asshole blood.</p>
+    <p>Google this: Anal fistula.</p>
+    <p>1.5 years marathoning hash hits in a sea of disposable medical products: off brand bandages hanging from doorknobs and pus stained gauze spilling from the wicker wastebasket. It was fair she wanted to fuck the guy who does her tatoos because I was just at home in a diaper high on Norco and Blue Dream.</p>
+    <p>She says she feels unloved because I'm not assertive when I fuck, like the guys on HBO. I say yeah but I know my way around a CVS: I can find the micellar cleansing water.</p>
+    <p>She fucks like she drives which is aggressively and without patience. We’re going bar to bar downtown on New Year’s Day Eve, meaning Jan 1 6:00pm and naturally all the bars are closed because who would be out trying to get fucked up again less than 24hours after maximum party time (alcoholics) so here we are and not the only ones as I see that tall girl who works the deli is here with a buddy and they are also finding the door locked, and I’m saying it’s a sign christ we should just go home but she is determined and so we wander down Grand and find this random door with a messy post-it scrawling YES WE’RE OPEN and sure enough the door gives.</p>
+    <p>The bartender has done so much cocaine last night that his face is visibly swollen. He’s the only one in the bar and he’s on the phone. We sit down and he hangs up and tells us goddamn his fucking boss making him open tonight look there’s nobody here now he has to call his friends to keep him company and give them free booze to get them to stay. Soon a couple dudes show up and we are taking tequila shots at a terrifying pace but something suicidal in me just keeps saying yes, and eventually I’m hunched over the toilet tank in the dim green men’s room and chirping polite dorky thank yous for the blow before wandering back out into the near-empty bar just in time to hear his big slouching friend in an oversized bomber go:“God says: if you look at your hand and you know you’re going to sin with it, you should cut off your hand.”</p>
+    <p>This was about a year ago. Now I'm looking at chicks at the Berkeley Bowl like a lost kid and then going home to get really high in the dark in the bathtub and listen to Korean ASMR. I have tried advertising my face on the internet face marketplace but I have a kind of rape-y vibe that doesn’t play well in JPEG. All of our friends were also couples and when you are no longer also a couple you are a volatile element in the equation and they stop calling you.</p>
+    <p>Hysterical gusts of wind are animating the lifeless trucking distribution center into flaps and scurries of tarp and rock so that it seems like people are working but really the weather is just making a fucking mess. I am one week in to arriving at an explosive tech firm where everybody is extremely intelligent and attractive and well-paid and I definitely don’t mention I’m getting ready to give this new Kaiser HMO a call and get on the pills again.</p>
+    <p>I am standing in the sun-blasted corner of the glassy lunchroom eating a clif bar and watching 2 pidgeons fuck on the corner of the building accross the street. My lungs feel squeaky and I wonder if I have The Vape Disease or maybe COVID. I am reading a Forbes article about how stressed out I am when they call the shelter in place. Soon I am back in my studio living off the vending machine in the lobby and reading graphs of body counts in various metros. Everyone has a mask on just like the graffiti back at my old place.</p>
+    <p>I get a slack message from an automated beverage that tells me to TAKE A BREAK and GET OUTSIDE.</p>
+    <h1 class="blink">--:--:--</h1>
+    <p>An attractive woman approaching 30 with a Latina or maybe middle eastern complexion and big cat eye makeup.</p>
+    <p>She looks almost childlike the way she is staring out the shotgun window of the black Lexus SUV driven by her male companion and presumably romantic partner who is literally a two dimensional shadow seated at her left, out of eyeshot. There is nothing wanting or fearful in her gaze: she is just taking in the aquatic passing of trees and curbs with soft delight the way kids do when they’re tired and being driven home from somewhere fun.</p>
+    <p>This is her face when her eyes meet mine. I am standing on the corner in sweatpants with a stomach ache. I am thinking about laundry and then her face: dreamlike and floating in luxury glass. There is a reaction in her eyes but I am completely unable to discern the flavor of it: her face remains warm and vacant. They are idling at the red light and we are staring at each other. The shadow is totally oblivious. I look at his face and see only products.</p>
+    <p>I look back and she is still staring. A full on smile has crept up one side of her face, sly and bordering on sinister. I’m pretty high so the longer I look the more she starts to seem like bad news.</p>
+    <p>Suddenly she vomits all over the dashboard with incredible violence. Heaving lurches of terrible wet mass running down the dashboard on onto what look like shopping bags by her feet.</p>
+    <p>I take a half-step back in reflex but continue staring, involuntarily. Shadow man has removed his Gucci sunglasses and he's looking at her not with concern but disgust, maybe outrage, like he thought she was a human female but now here she is revealed actually to be some kind of diseased mutant freak, in his car. We both stare at her in silence for a number of seconds, the world totally motionless except for her explosive writhing.</p>
+    <p>Then shadow man looks up and catches me spectating. He looks indignant as he makes right and turns the corner in a chirpy huff. I shake my head and keep walking back to my apartment, wondering out loud if she was smiling because she knew she was gonna puke- if she had done it on purpose…</p>
+    <p>Another dead customer spitting burnt slang to the girls on slack while the CEO makes cheerful references to the Netflix favor of the month.</p>
   </div>
 </template>
+<style scoped lang="scss">
+html,body {
+	background: #00ffff;
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+}
+p, li {
+	color: black;
+    font-size: 24px;
+    margin: 0 auto;
+    font-family: "fira";
+    line-height: 1.6;
+}
 
-<script>
-import Logo from '~/components/Logo.vue'
+p, ul {
+	max-width: 800px;
+	width: 100%;
+  margin: 0 auto;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
+h1 {
+	font-family: "vcr";
+	text-align: left;
+	max-width: 600px;
+	margin: 2rem auto;
+  display: block;
+	color: magenta;
+	text-transform: uppercase;
+	text-decoration: none;
+  text-align: center;
+  font-size: 80px;
+}
+a {
+	text-decoration: none;
+}
 
-export default {
-  components: {
-    Logo
+@font-face {
+  font-family: "vcr";
+  src: url("/vcr.ttf"); }
+  @font-face {
+    font-family: "fira";
+    src: url("/FiraCode-Regular.ttf"); }
+video {
+	width: 100vw;
+	margin-bottom: 40px;
+}
+#more {
+	color: white;
+}
+img {
+	margin: 0 auto;
+	display: block;
+}
+a {
+	color: white;
+}
+.blink {
+  animation: blink-animation 2s steps(5, start) infinite;
+  -webkit-animation: blink-animation 2s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
   }
 }
-</script>
-
-<style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-  @apply min-h-screen flex justify-center items-center text-center mx-auto;
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
 }
-*/
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
+#intro {
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  position: relative;
 }
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
+#intro h1 {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  margin: 0;
+	text-shadow: 5px 5px 0 black, -5px -5px 0 black, -5px 5px 0 black, 5px -5px 0 black;
+  font-size: 80px;
 }
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
+#imakid {
+  width: 100vw;
 }
-
-.links {
-  padding-top: 15px;
+#root {
+  background: cyan;
 }
 </style>

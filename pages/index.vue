@@ -16,8 +16,22 @@
     <p>I am getting high in the shade with my sweater on, entranced with quality visions: a shimmering dark, like the wind at night, she is draped in lavender with brillant birds and snakes on her shoulders and ankles, leaning on a case of grapefruit lacroix.</p>
     <p>
       I stumble out into the hissing sunshine from behind the overpass to shout
-      <span class="speech">FUCK</span> at the sidewalk, then retreat into a repurposed rubber factory and drink Hazy IPA/Vida Mezcal while surrounded by televisions displaying slow motion footage of pretty latinas eating cheesesteak. Currently all the
-      <span class="magenta">customer</span>s at the bar are men who have come here alone, and everyone is on their phone arranging causal <span class="magenta">sex</span> or buying <span class="magenta">sneakers</span> or trying to recruit a <span class="magenta">project manager</span>. I am waiting on emails from Github or my mom. I wonder if my anxiety disorder is related to how she spent the pregnancy <a href="https://youtu.be/vn8mfg_oEz4?t=1157" target="_blank">watching the first Gulf War on CNN</a>. <img src="/showdown_480.gif" /> <a href="https://www.youtube.com/watch?v=s1tAYmMjLdY" target="_blank">Blink-182</a> comes on Spotify and I finally do start to cry, but the battery dies before the first chorus and everybody starts cracking jokes before putting on more trap.
+      <span
+        class="speech"
+      >FUCK</span> at the sidewalk, then retreat into a repurposed rubber factory and drink Hazy IPA/Vida Mezcal while surrounded by televisions displaying slow motion footage of pretty latinas eating cheesesteak. Currently all the
+      <span
+        class="magenta"
+      >customer</span>s at the bar are men who have come here alone, and everyone is on their phone arranging causal
+      <span class="magenta">sex</span> or buying
+      <span class="magenta">sneakers</span> or trying to recruit a
+      <span class="magenta">project manager</span>. I am waiting on emails from Github or my mom. I wonder if my anxiety disorder is related to how she spent the pregnancy
+      <a
+        href="https://youtu.be/vn8mfg_oEz4?t=1157"
+        target="_blank"
+      >watching the first Gulf War on CNN</a>.
+      <img src="/showdown_480.gif" />
+      <img src="/lane_fire_clip.gif" />
+      <a href="https://www.youtube.com/watch?v=s1tAYmMjLdY" target="_blank">Blink-182</a> comes on Spotify and I finally do start to cry, but the battery dies before the first chorus and everybody starts cracking jokes before putting on more trap.
     </p>
     <p>Local news rolling credits to a nearly submarine 4-runner in a Florida hurricane before the Packers opener. Brett Favre in athleisure slowly pulls his hands apart, then brings them steeple together- apart, together, while glancing casually off-screen. Howie Long is selling Sketchers and Chevys at the same time.</p>
     <p>#13 winces placidly on his ass-and-elbows while men in slacks stand around him and confer. We review the footage of his knee being ripped apart.</p>
@@ -35,17 +49,25 @@
     <p>Cardiac motion pushing circles of blind fluid between bones and freeways in our perpetual buffer. i am desperate for the way seasons carry blurry fragments of former selves in the texture of their air like constellations of hormones suspended in the smells.</p>
     <p>
       Taste of plaque and tobacco on the freeway. Morning mouth has glued the filter to my lips. My skin shines electric with elaborate unrest. Webs of sense woven into threads pulling muscle hang a space which I call myself,
-      <a href="https://vimeo.com/75647511" target="_blank">claiming to have control</a> over a momentum that's been ripping shockwaves across galaxies since before the human body had a face, and now this motion it's finally shaking our hot meaty limbs into all these gestures of our finding and fucking and fearing and loving and hating each other, I am doing 90 on 80 and letting my heat and smoke go rising into the invisible color that hides behind everything.
+      <a
+        href="https://vimeo.com/75647511"
+        target="_blank"
+      >claiming to have control</a> over a momentum that's been ripping shockwaves across galaxies since before the human body had a face, and now this motion it's finally shaking our hot meaty limbs into all these gestures of our finding and fucking and fearing and loving and hating each other, I am doing 90 on 80 and letting my heat and smoke go rising into the invisible color that hides behind everything.
     </p>
     <h1 class="blink">--:--:--</h1>
     <p>
       IPA with breakfast and he could probably smell it on me when I hugged him hello, cooked me kimchi eggs and reflected on his recent moves toward a
-      <a href="https://en.wikipedia.org/wiki/Tao_Te_Ching" target="_blank">Doaist</a> flavor of Christianity.
+      <a
+        href="https://en.wikipedia.org/wiki/Tao_Te_Ching"
+        target="_blank"
+      >Doaist</a> flavor of Christianity.
     </p>
     <p>He'd met my ex's landlord and thought he was a great guy.</p>
     <p>
       His roommates filtered in and out with plates of sliced fruit and I marvelled at their ability to live motivated lives and not just get fucked up all the time. He was calling
-      <span class="magenta">bullshit</span> on the Buddha and frying up another round of eggs. It's getting darker early now and his kitchen is mostly in shadow when she asks rhetorically over her boiling french press:
+      <span
+        class="magenta"
+      >bullshit</span> on the Buddha and frying up another round of eggs. It's getting darker early now and his kitchen is mostly in shadow when she asks rhetorically over her boiling french press:
     </p>
     <p class="speech">
       "You know when you're in
@@ -56,25 +78,37 @@
     <h1 class="blink">--:--:--</h1>
     <p>
       I didn't stop having a subtance problem just because she started dying, so yeah I was drunk in the mini van on the way to the hospital, and I was sneaking vape hits in the back so only my cousin could see - she's in college and
-      <span class="magenta">sober</span> and has perfected the art of speaking with a person and appearing not to notice as they get progressively
-      <span class="magenta">not sober</span>.
+      <span
+        class="magenta"
+      >sober</span> and has perfected the art of speaking with a person and appearing not to notice as they get progressively
+      <span
+        class="magenta"
+      >not sober</span>.
     </p>
     <p>We arrive to find grandma gnawing on her suction tube like a bored dog and slapping at nurses, although she lit up when she saw it was us coming into the room and not another medical procedure. She couldn't actually speak because of the ventilator and so us sweating in placid plastic blue smocks because she's got C-diff and leaning in to read her lips. Joy fades fast into the fatigue of being surrounded by 10 people staring at you and literally being unable to speak.</p>
     <p>I lean in to kiss her head and tell her I love her, she says something back which I squint to hear and she repeats it and smiles.</p>
     <p>
       It's not until I'm in the elevator down to the parking garage I realize she was saying:
-      <span class="speech">"I'm proud to be your grandma."</span>
+      <span
+        class="speech"
+      >"I'm proud to be your grandma."</span>
     </p>
     <p>
       Cigarettes with my mom in front of depatures at SFO when we're back: a girl hops out of a hippie-tinged toyota pickup and begins heaving desperate
-      <span class="speech">sobs</span> into her longhair boyfriend's chest while the woman next to us on the bench is in ecstacy after being delayed out of Atlanta and
-      <span class="speech">damn</span> this is her first cigarette in like 8 hours. The cab driver tells us he believes in full moons now after all the shit that happened in SF over the weekend. It is now barely waning and still humming tensely above the monster concrete limbs of the 380 exchange.
+      <span
+        class="speech"
+      >sobs</span> into her longhair boyfriend's chest while the woman next to us on the bench is in ecstacy after being delayed out of Atlanta and
+      <span
+        class="speech"
+      >damn</span> this is her first cigarette in like 8 hours. The cab driver tells us he believes in full moons now after all the shit that happened in SF over the weekend. It is now barely waning and still humming tensely above the monster concrete limbs of the 380 exchange.
     </p>
     <p>Didn't realize how high I was until I got in under the flourescent tubes and asked for a double meat w/ onion. Alone for the first time in 3 days, I am dodging unloaded semis and taking iphone pics of garbage on the walk home.</p>
     <h1 class="blink">--:--:--</h1>
     <p>
       Find an Ikea receipt from 2 years ago- we were still together then and I can't remember what a SAMLA is. I can't remember that day. I can't really remember that year, mostly nurses and
-      <span class="magenta">pills</span> and pain and the ceiling.
+      <span
+        class="magenta"
+      >pills</span> and pain and the ceiling.
     </p>
     <p>The first time you get surgery your managers are all smiles and support and asking if you're ok take as much time as you need and it's quite lovely, but by the fifth procedure they are stoned faced as they tell you how much pay will be cut because you couldn't make it in with all the infected asshole blood.</p>
     <p>
@@ -86,16 +120,24 @@
     </p>
     <p>
       1.5 years marathoning hash hits in a sea of disposable medical products: off-brand bandages hanging from doorknobs and pus-stained gauze spilling from the wicker wastebasket. It was fair my girlfriend wanted to
-      <span class="magenta">fuck</span> the guy who does her tatoos because I was just at home in a diaper high on Norco and Blue Dream.
+      <span
+        class="magenta"
+      >fuck</span> the guy who does her tatoos because I was just at home in a diaper high on Norco and Blue Dream.
     </p>
     <p>She says she feels unloved because I'm not assertive when I fuck, like the guys on HBO. I say yeah but I know my way around a CVS: I can find the micellar cleansing water.</p>
     <p>
       She fucks like she drives which is aggressively and without
       <span class="magenta">patience</span>. We’re going bar-to-bar downtown on New Year’s Day Eve, meaning Jan 1 6:00pm and naturally all the bars are closed because who would be out trying to get fucked up again less than 24hours after maximum party time (
-      <span class="magenta">alcoholics</span>) so here we are and not the only ones as I see that tall
+      <span
+        class="magenta"
+      >alcoholics</span>) so here we are and not the only ones as I see that tall
       <span class="magenta">girl</span> who works the deli is here with a buddy and they are also finding the door locked, and I’m saying
-      <span class="speech">it’s a sign christ we should just go home</span> but she is determined and so we wander down Grand and find this random door with a messy post-it scrawling
-      <span class="speech">YES WE’RE OPEN</span> and sure enough the door gives.
+      <span
+        class="speech"
+      >it’s a sign christ we should just go home</span> but she is determined and so we wander down Grand and find this random door with a messy post-it scrawling
+      <span
+        class="speech"
+      >YES WE’RE OPEN</span> and sure enough the door gives.
     </p>
     <p>
       The bartender has done so much cocaine last night that his face is visibly swollen. He’s the only one in the bar and he’s on the phone. We sit down and he hangs up and tells us
@@ -103,30 +145,47 @@
         class="speech"
       >goddamn his fucking boss making him open tonight look there’s nobody here now he has to call his friends to keep him company and give them free booze to get them to stay</span>. Soon a couple dudes show up and we are taking tequila shots at a
       <span class="magenta"></span> pace but something suicidal in me just keeps saying yes, and eventually I’m hunched over the toilet tank in the dim green men’s room and chirping polite dorky
-      <span class="speech">thank you</span>s for a free line of blow before wandering back out into the near-empty bar just in time to hear his big slouching friend in an oversized bomber explain:
+      <span
+        class="speech"
+      >thank you</span>s for a free line of blow before wandering back out into the near-empty bar just in time to hear his big slouching friend in an oversized bomber explain:
       <span
         class="speech"
       >God says: if you look at your hand and you know you’re going to sin with it, you should cut off your hand.</span>
     </p>
     <p>
       This was about a year ago. Now I'm looking at chicks at the Berkeley Bowl like a lost kid and then going home to get really high in the dark in the bathtub and listen to
-      <a href="https://www.youtube.com/watch?v=J37Cw3IWnFM" target="_blank">Korean ASMR</a>. I have tried advertising my face on the internet face marketplace but I have a kind of rape-y vibe that doesn’t play well in
-      <span class="magenta">JPEG</span>. All of our friends were also couples and when you are no longer also a couple you are a
-      <span class="magenta">volatile</span> element in the equation so they stop calling you.
+      <a
+        href="https://www.youtube.com/watch?v=J37Cw3IWnFM"
+        target="_blank"
+      >Korean ASMR</a>. I have tried advertising my face on the internet face marketplace but I have a kind of rape-y vibe that doesn’t play well in
+      <span
+        class="magenta"
+      >JPEG</span>. All of our friends were also couples and when you are no longer also a couple you are a
+      <span
+        class="magenta"
+      >volatile</span> element in the equation so they stop calling you.
     </p>
     <h1 class="blink">--:--:--</h1>
     <p>
       Hysterical gusts of wind are animating the lifeless trucking distribution center into flaps and scurries of tarp and rock so that it seems like people are working but really the weather is just making a fucking mess. I am one week in to arriving at an
-      <span class="magenta">explosive</span> tech firm where everybody is extremely intelligent and attractive and well-paid and I definitely don’t mention I’m getting ready to give this new Kaiser HMO a call and get on the pills again.
+      <span
+        class="magenta"
+      >explosive</span> tech firm where everybody is extremely intelligent and attractive and well-paid and I definitely don’t mention I’m getting ready to give this new Kaiser HMO a call and get on the pills again.
     </p>
     <p>
       I am standing in the sun-blasted corner of the glassy lunchroom eating a clif bar and watching 2 pidgeons
-      <span class="magenta">fuck</span> on the corner of the building accross the street. My lungs feel squeaky and I wonder if I have The Vape Disease or maybe COVID. I am reading a Forbes article about how stressed out I am when they call the shelter-in-place. Soon I am back in my studio living off the vending machine in the
-      <span class="magenta">lobby</span> and reading graphs of body counts in various metros. Everyone has a mask on just like the graffiti back at my old place.
+      <span
+        class="magenta"
+      >fuck</span> on the corner of the building accross the street. My lungs feel squeaky and I wonder if I have The Vape Disease or maybe COVID. I am reading a Forbes article about how stressed out I am when they call the shelter-in-place. Soon I am back in my studio living off the vending machine in the
+      <span
+        class="magenta"
+      >lobby</span> and reading graphs of body counts in various metros. Everyone has a mask on just like the graffiti back at my old place.
     </p>
     <p>
       I get a Slack message from an automated beverage that tells me to
-      <span class="speech">TAKE A BREAK</span> and
+      <span
+        class="speech"
+      >TAKE A BREAK</span> and
       <span class="speech">GET OUTSIDE</span>.
     </p>
     <h1 class="blink">--:--:--</h1>
@@ -167,7 +226,7 @@ h1 {
   text-transform: uppercase;
   text-decoration: none;
   text-align: center;
-    font-size: 40px;
+  font-size: 40px;
   @media (min-width: 1000px) {
     font-size: 80px;
   }
@@ -229,10 +288,9 @@ a {
   text-shadow: 5px 5px 0 black, -5px -5px 0 black, -5px 5px 0 black,
     5px -5px 0 black;
   font-size: 50px;
-    @media(min-width:1000px) {
-  font-size: 80px;
-    }
-
+  @media (min-width: 1000px) {
+    font-size: 80px;
+  }
 }
 #imakid {
   width: 100vw;

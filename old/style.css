@@ -1,0 +1,53 @@
+html,body {
+	background: black;
+	font-family: "vcr";
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+}
+p, li {
+	color: lime;
+	font-size: 18px;
+  text-transform: uppercase;
+}
+p, ul {
+	max-width: 600px;
+	width: 100%;
+	margin: 20px auto;
+}
+h1 {
+	font-family: "vcr";
+	text-align: left;
+	max-width: 600px;
+	margin: 0 auto;
+	color: lime;
+}
+
+@font-face {
+  font-family: "vcr";
+  src: url("vcr.ttf"); }
+video {
+	width: 100vw;
+	margin-bottom: 40px;
+}
+#more {
+	color: white;
+}
+img {
+	margin: 0 auto;
+	display: block;
+}
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}

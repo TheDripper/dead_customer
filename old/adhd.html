@@ -1,0 +1,46 @@
+<html>
+<head>
+<link rel=stylesheet href=adhd.css />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div id=cont>
+	
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+var body = d3.select("#cont"),
+    length = 10,
+    color = d3.scaleLinear().domain([1,length])
+      .interpolate(d3.interpolateHcl)
+      .range([d3.rgb("#007AFF"), d3.rgb('#FFF500')]),
+    size = d3.scaleLinear().domain([1,length])
+      .range([20, 24]);
+    postop = d3.scaleLinear().domain([1,length])
+      .range([0, 100]);
+    posleft = d3.scaleLinear().domain([1,length])
+      .range([0, 20]);
+
+for (var i = 0; i < length; i++) {
+    body.append('div')
+    //.attr('style', function (d) {
+    //        return {
+    //    	"font-size": size(i),
+    //    	"color": color(i)
+    //        }
+    //})
+    .attr('style', function (d) {
+      return 'font-size: ' + size(i) + 
+      	     ';color: ' + color(i) +
+      	     ';top: ' + postop(i) +
+      	     ';left: ' + posleft(i);
+
+    })
+    .attr('class', 'header')
+    .text('ATTENTION DEFECIT HYPERTEXT TRANSFER')
+}
+</script>
+</body>
+</html>
+

@@ -1,0 +1,91 @@
+html,body {
+	background: #00ffff;
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+}
+p, li {
+	color: black;
+    font-size: 24px;
+    margin: 0 auto;
+    font-family: "fira";
+    line-height: 1.6;
+}
+
+p, ul {
+	max-width: 800px;
+	width: 100%;
+  margin: 0 auto;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
+h1 {
+	font-family: "vcr";
+	text-align: left;
+	max-width: 600px;
+	margin: 2rem auto;
+  display: block;
+	color: lime;
+	text-transform: uppercase;
+	text-decoration: none;
+  text-align: center;
+}
+a {
+	text-decoration: none;
+}
+
+@font-face {
+  font-family: "vcr";
+  src: url("vcr.ttf"); }
+  @font-face {
+    font-family: "fira";
+    src: url("FiraCode-Regular.ttf"); }
+video {
+	width: 100vw;
+	margin-bottom: 40px;
+}
+#more {
+	color: white;
+}
+img {
+	margin: 0 auto;
+	display: block;
+}
+a {
+	color: white;
+}
+.blink {
+  animation: blink-animation 2s steps(5, start) infinite;
+  -webkit-animation: blink-animation 2s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+#intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+#intro h1 {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  margin: 0;
+	text-shadow: 5px 5px 0 black, -5px -5px 0 black, -5px 5px 0 black, 5px -5px 0 black;
+  
+  font-size: 3rem;
+}
+#imakid {
+  width: 100vw;
+}

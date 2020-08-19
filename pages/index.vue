@@ -1,7 +1,7 @@
 <template>
   <div id="root" class="w-full">
     <div id="intro" class="mx-auto">
-      <img src="/imakid_1212.jpg" id=imakid />
+      <img src="/imakid_1212.jpg" id="imakid" />
       <h1 class="blink">DEAD CUSTOMER</h1>
     </div>
     <img src="/FUCKYOU.jpg" />
@@ -23,7 +23,9 @@
       <span
         class="magenta"
       >customer</span>s at the bar are men who have come here alone, and everyone is on their phone arranging causal
-      <span class="magenta">sex</span> or buying
+      <span
+        class="magenta"
+      >sex</span> or buying
       <span class="magenta">sneakers</span> or trying to recruit a
       <span class="magenta">project manager</span>. I am waiting on emails from Github or my mom. I wonder if my anxiety disorder is related to how she spent the pregnancy
       <a
@@ -31,7 +33,17 @@
         target="_blank"
       >watching the first Gulf War on CNN</a>.
       <img src="/showdown_480.gif" />
-      <img src="/lane_fire_clip.gif" />
+    </p>
+    <div class="frame">
+      <iframe
+        class="mx-auto py-8"
+        src="https://www.youtube.com/embed/_mxcWpul-aY"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <p>
       <a href="https://www.youtube.com/watch?v=s1tAYmMjLdY" target="_blank">Blink-182</a> comes on Spotify and I finally do start to cry, but the battery dies before the first chorus and everybody starts cracking jokes before putting on more trap.
     </p>
     <p>Local news rolling credits to a nearly submarine 4-runner in a Florida hurricane before the Packers opener. Brett Favre in athleisure slowly pulls his hands apart, then brings them steeple together- apart, together, while glancing casually off-screen. Howie Long is selling Sketchers and Chevys at the same time.</p>
@@ -106,7 +118,8 @@
     <p>Didn't realize how high I was until I got in under the flourescent tubes and asked for a double meat w/ onion. Alone for the first time in 3 days, I am dodging unloaded semis and taking iphone pics of garbage on the walk home.</p>
     <h1 class="blink">--:--:--</h1>
     <p>
-      Find an Ikea receipt from 2 years ago- we were still together then and I can't remember what a SAMLA is. I can't remember that day. I can't really remember that year, mostly nurses and
+      Find an Ikea receipt from 2 years ago- we were still together then and I can't remember what a
+      <a href="https://www.ikea.com/us/en/p/samla-box-clear-70102972/" target="_blank">SAMLA</a> is. I can't remember that day. I can't really remember that year, mostly nurses and
       <span
         class="magenta"
       >pills</span> and pain and the ceiling.
@@ -311,5 +324,18 @@ a {
   text-shadow: 2px 2px 0 black;
   color: magenta;
   font-weight: medium;
+}
+.frame {
+  height: 0;
+  width: 100%;
+  padding-bottom: 56.25%;
+  position: relative;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 }
 </style>

@@ -4,7 +4,7 @@
       <img src="/imakid_1212.jpg" id="imakid" />
       <h1 class="blink">DEAD CUSTOMER</h1>
     </div>
-    <img src="/FUCKYOU.jpg" />
+    <img src="/tyler_hill_dead_customer.jpg" />
     <div class="frame">
       <iframe class="mx-auto py-8" src="https://www.youtube.com/embed/4gyoLBz_ucQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>

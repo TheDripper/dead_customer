@@ -6,13 +6,7 @@
     </div>
     <img src="/FUCKYOU.jpg" />
     <div class="frame">
-      <iframe
-        class="mx-auto py-8"
-        src="https://www.youtube.com/embed/_mxcWpul-aY"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <iframe class="mx-auto py-8" src="https://www.youtube.com/embed/4gyoLBz_ucQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <p>Sometimes when I'm meditating I have visions of virtual places that don't actually exist except in electronic suspension between pre-trade-war graphics cards now writhing sun bleached in the landfill back across the bay where I grew up. I remember the insides of castles and cargo ships as if I was actually there, I feel deep emotional states tied to these rendered environments.</p>
     <p>Mass-consumer visions in plastic communion with my various consoles, wearing oversized graphic t-shirts that looked like awkward white dresses on my tiny body and staring in total trance at a small rectangle of light for hours and days and years, marked silently in glowing perpendicular red by Sony in a plastic box above my head.</p>

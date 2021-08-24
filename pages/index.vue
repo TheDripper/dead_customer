@@ -6,7 +6,7 @@
     </div>
     <img src="/tyler_hill_dead_customer.jpg" />
     <video controls=""><source src="https://deadcustomer.s3-us-west-1.amazonaws.com/machine.mp4"></video>
-    <video controls="" autoplay="" name="media"><source src="https://deadcustomer.s3-us-west-1.amazonaws.com/depression-1998.mp4" type="video/mp4"></video> 
+    <video controls="" name="media"><source src="https://deadcustomer.s3-us-west-1.amazonaws.com/depression-1998.mp4" type="video/mp4"></video> 
     <p>Sometimes when I'm meditating I have visions of virtual places that don't actually exist except in electronic suspension between pre-trade-war graphics cards now writhing sun bleached in the landfill back across the bay where I grew up. I remember the insides of castles and cargo ships as if I was actually there, I feel deep emotional states tied to these rendered environments.</p>
     <p>Mass-consumer visions in plastic communion with my various consoles, wearing oversized graphic t-shirts that looked like awkward white dresses on my tiny body and staring in total trance at a small rectangle of light for hours and days and years, marked silently in glowing perpendicular red by Sony in a plastic box above my head.</p>
     <p>This went on for about 15 years. I started looking at girls and realized that playing video games was not sexually impressive. I started playing bass and learned early 00s pop tabs off google and joined jazz band and started smoking weed and this girl whose voice and freckles and hair and heart were bright and orange and who played oboe in symphonic told me I looked cute lugging my upright past the pool every morning and I started making her surreal stoner doodles on our bio homework that made her laugh and one day she came to my house.</p>

@@ -5,10 +5,10 @@
       <h1 class="blink">DEAD CUSTOMER</h1>
     </div>
     <img src="/tyler_hill_dead_customer.jpg" />
-    <video controls=""><source src="https://deadcustomer.s3-us-west-1.amazonaws.com/machine.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4gyoLBz_ucQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <video controls="" name="media"><source src="https://deadcustomer.s3-us-west-1.amazonaws.com/depression-1998.mp4" type="video/mp4"></video> 
     <p>Sometimes when I'm meditating I have visions of virtual places that don't actually exist except in electronic suspension between pre-trade-war graphics cards now writhing sun bleached in the landfill back across the bay where I grew up. I remember the insides of castles and cargo ships as if I was actually there, I feel deep emotional states tied to these rendered environments.</p>
-    <p>Mass-consumer visions in plastic communion with my various consoles, wearing oversized graphic t-shirts that looked like awkward white dresses on my tiny body and staring in total trance at a small rectangle of light for hours and days and years, marked silently in glowing perpendicular red by Sony in a plastic box above my head.</p>
+    <p>Mass-consumer visions in corporatized tradition, plastic communion with my various consoles, wearing oversized graphic t-shirts that looked like awkward white dresses on my tiny body and staring in total trance at a small rectangle of light for hours and days and years, marked silently in glowing perpendicular red by Sony in a plastic box above my head.</p>
     <p>This went on for about 15 years. I started looking at girls and realized that playing video games was not sexually impressive. I started playing bass and learned early 00s pop tabs off google and joined jazz band and started smoking weed and this girl whose voice and freckles and hair and heart were bright and orange and who played oboe in symphonic told me I looked cute lugging my upright past the pool every morning and I started making her surreal stoner doodles on our bio homework that made her laugh and one day she came to my house.</p>
     <p>it was the mid 2000s so you could get on cable most hours and watch documentary footage of people smoking meth out of aluminum foil in their cars. This is what we are doing and perhaps the tone deaf subject matter is why she pivots for the water polo player and so I drop out of band and eat cinnamon pita chips out behind the tennis club. Our romance remains an open question until she is hit by a freight train during her senior year at a liberal arts college in the midwest.</p>
     <p>None of the parents the parents knew what to do. After the funeral they gave us these warm vacant frowns while we got drunk and screamed in the back yard. Her best friend and I met up a year after, driving around sobbing at the hills on the 1: I remember saying her name and seeing horses. Somehow one year later it was so much worse than the day it happened. We had white russians in my kitchen and ended up sucking and drooling blindly on each others faces for 10 awful seconds before our mutual disgust with ourselves pulled our bodies apart: She had a boyfriend and I had a girlfriend and I don't think we were even really attracted to each other. We were just so fucking sad.</p>
@@ -254,9 +254,8 @@ a {
   font-family: "fira";
   src: url("/FiraCode-Regular.ttf");
 }
-video {
+video, iframe {
   width: 100vw;
-  margin-bottom: 40px;
 }
 #more {
   color: white;

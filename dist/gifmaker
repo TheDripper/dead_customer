@@ -1,0 +1,1 @@
+ffmpeg -i showdown_480.mov -pix_fmt rgb8 -r 10 showdown_480.gif && gifsicle -O3 showdown_480.gif -o showdown_480.gif

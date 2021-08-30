@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/uppfri", {data:[{}],fetch:{},mutations:void 0});
